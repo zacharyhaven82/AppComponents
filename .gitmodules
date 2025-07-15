@@ -1,0 +1,6 @@
+[submodule "UIComponents"]
+	path = UIComponents
+	url = https://github.com/zacharyhaven82/UIComponents
+[submodule "Theming"]
+	path = Theming
+	url = https://github.com/zacharyhaven82/Theming
